@@ -21,6 +21,7 @@
 
      width:800px;
      height:500px;
+     box-sizing: border-box;
      position:absolute;
      top:180px;
      left:350px;
@@ -32,6 +33,10 @@
 form{
 
    position:absolute;
+   color:rgb(11, 14, 17);
+   font-size: 16px;
+   font-weight: 700;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 
 }
