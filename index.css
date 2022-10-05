@@ -1,9 +1,31 @@
+
+*{
+   margin: 0px;
+   padding:0px;
+   style:none;
+
+}
+
+
 .main_div{
 
     height:800px;
     width:1000;
-    background-image:url("/black-g8840aa0e3_1920.jpg") ;
+    background-color: antiquewhite ;
     Position:relative;
+
+
+}
+
+.holder{
+
+     width:800px;
+     height:500px;
+     position:absolute;
+     top:180px;
+     left:350px;
+     background-color: rgb(10, 237, 245);
+     border-radius:25px ;
 
 
 }
